@@ -73,7 +73,7 @@ class AboutCards extends StatelessWidget {
                     padding: const EdgeInsets.all(13.0),
                     child: Center(
                       child: Text(
-                        "Musify  | 2.1.0",
+                        "Seirol",
                         style: TextStyle(
                             color: accentLight,
                             fontSize: 24,
